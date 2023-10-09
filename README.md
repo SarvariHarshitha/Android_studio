@@ -9,7 +9,7 @@ Android Studio is the official integrated development environment (IDE) for Andr
   
 ## Installation
 To install the Android studio in your PC, follow the instructions below:
--[Android Studio Download link](https://developer.android.com/studio?gclid=CjwKCAjwyY6pBhA9EiwAMzmfwdQbglsqZNxMgY1Q2PCCn-SQU52pEr9akgZaP94kmdXVQSKTTNoAfRoCE9AQAvD_BwE&gclsrc=aw.ds): Download the Android studio from this website
+- [Android Studio Download link](https://developer.android.com/studio?gclid=CjwKCAjwyY6pBhA9EiwAMzmfwdQbglsqZNxMgY1Q2PCCn-SQU52pEr9akgZaP94kmdXVQSKTTNoAfRoCE9AQAvD_BwE&gclsrc=aw.ds): Download the Android studio from this website
 
 ## Getting Started
 
