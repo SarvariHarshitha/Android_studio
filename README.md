@@ -25,8 +25,8 @@ To get started with Android studio application, follow these steps:
    
 ## Prerequisites
 Before you begin, ensure you have met the following requirements:
--Android Studio 4.0 or later
--Android SDK with API level 21 or higher
+- Android Studio 4.0 or later
+- Android SDK with API level 21 or higher
 
 ## Contact
 For any questions, issues, or collaborations, feel free to contact me:
