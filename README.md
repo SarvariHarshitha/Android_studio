@@ -19,7 +19,6 @@ To get started with Android studio application, follow these steps:
 
    ```bash
    git clone https://github.com/SarvariHarshitha/Android_studio.git
-   cd my-awesome-app
    ```
    -Open the project in Android Studio.
    -Build and run the app on your Android device or emulator.
