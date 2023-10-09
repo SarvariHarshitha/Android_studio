@@ -2,12 +2,12 @@
 Android Studio is the official integrated development environment (IDE) for Android application development. It is based on IntelliJ IDEA, a Java integrated development environment for software, and incorporates its code editing and developer tools.
 
 ## Table of Contents
--[Installation](#installation)
+- [Installation](#installation)
 - [Getting Started](#getting-started)
 - [Prerequisites](#prerequisites)
 - [Contact](#contact)
   
-## Intsllation
+## Installation
 To install the Android studio in your PC, follow the instructions below:
 -[Android Studio Download link](https://developer.android.com/studio?gclid=CjwKCAjwyY6pBhA9EiwAMzmfwdQbglsqZNxMgY1Q2PCCn-SQU52pEr9akgZaP94kmdXVQSKTTNoAfRoCE9AQAvD_BwE&gclsrc=aw.ds): Download the Android studio from this website
 
